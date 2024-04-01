@@ -1,0 +1,19 @@
+header{
+  background-image: url("../images/landing.jpg");
+  background-position: center;
+  background-size: cover;
+
+}
+.About h4{
+  font-size: 3rem;
+  font-weight: 900;
+  text-transform: uppercase;
+
+}
+.About h3{
+font-size: 5rem;
+  font-weight: 900;
+color: #f4f4f4;
+  text-transform: uppercase;
+}
+.
